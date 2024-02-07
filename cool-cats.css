@@ -1,0 +1,11 @@
+ul, ol { 
+    color: red;
+    list-style-type: none;
+}
+h1, h3 {
+    color: aquamarine;
+}
+article, h3 {
+    color: greenyellow;
+
+}
