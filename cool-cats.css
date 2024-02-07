@@ -21,3 +21,9 @@ footer p {
     font-size: smaller;
 
 }
+article, ul {
+    color: coral;
+    list-style-type: circle;
+
+
+}
