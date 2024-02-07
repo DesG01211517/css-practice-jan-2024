@@ -15,4 +15,9 @@ p {
 }
 article p {
     padding: 12px;
+    color: slategrey;
+}
+footer p {
+    font-size: smaller;
+
 }
