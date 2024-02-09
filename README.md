@@ -18,6 +18,8 @@ It will contain a variety of HTML tags and CSS rules.
 - [ ] Styles for lists
 - [ ] added cool-cats.html
 - [ ] add CSS.styles ]
+- [ ] layout.css
+- [ ] layout.html
 
 ## Contact
 

@@ -4,7 +4,8 @@ header {
 main {
     background-color: blue;
     width: 97%;
-    float: left:
+    float: left;
+
 }
 aside { 
     background-color: aqua;
@@ -12,11 +13,11 @@ aside {
     float: right;
 }
 #para1 {
-    float: left:
+    float: left;
     
 }
 #para2 {
-    float: right:
+    float: right;
     
 }
 #pic1 {
@@ -25,3 +26,8 @@ aside {
 #pic2 {
     float: left;
 }
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
